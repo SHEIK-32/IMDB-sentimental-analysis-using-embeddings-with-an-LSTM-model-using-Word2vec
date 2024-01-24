@@ -1,0 +1,1 @@
+# IMDB-sentimental-analysis-using-embeddings-with-an-LSTM-model-using-Word2vec
